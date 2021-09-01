@@ -1,6 +1,4 @@
 # Description
-Watch my Youtube vid (https://youtu.be/vqy_5ix0B1c) for more instructions on how to use this repository.
-
 This code is used to auto compound your DINO tokens that you earn from the DINO/USDC farm on Dinoswap into the Jurassic DINO pool. The tokens are auto compounded every four minutes.
 
 Dinoswap is a yield farm on the polygon network.
